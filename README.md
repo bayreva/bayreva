@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bayreva
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate on great people with web development interests
+- 📫 How to reach me hello@fullhelp.eu 
